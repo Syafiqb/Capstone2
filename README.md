@@ -59,15 +59,5 @@ The dataset includes the following key columns:
 - matplotlib
 - scipy
 
-## Contributing
-Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
 
-## Contact
-For any questions or suggestions, please contact [Your Name] at [Your Email].
-
----
-
-This README provides an overview of the project, its structure, and how to use it. Feel free to customize it further based on your specific needs and additional details about the project.
